@@ -16,10 +16,10 @@ float diffLimit = 5;
 boolean AfterFirstDataReceived = false;
 boolean bigDataDeviation = false;
 const char* ssid     = "Home_300M";
-const char* password = "1234509876";
+const char* password = "";
 
 // Your Xively key to let you upload data
-char xivelyKey[] = "0egIk0RKfJDe74ye1pVl67B42a9kv5WsNqHg6oCAFGHg9WGK";
+char xivelyKey[] ="" 
 //your xively feed ID
 #define xivelyFeed 1604025287
 //datastreams
